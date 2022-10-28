@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace aula_02.Controllers;
+namespace aula_03.Controllers;
 
 [ApiController]
 [Route("[controller]")]

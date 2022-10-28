@@ -1,4 +1,4 @@
-namespace aula_02;
+namespace aula_03;
 
 public class WeatherForecast
 {
