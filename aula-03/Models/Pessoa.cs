@@ -1,3 +1,5 @@
+using System.ComponentModel.DataAnnotations;
+
 namespace aula_03.Models
 {
     public class Pessoa

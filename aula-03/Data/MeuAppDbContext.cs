@@ -1,9 +1,11 @@
+using aula_03.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace aula_03.Data
 {
     public class MeuAppDbContext : DbContext
     {
+
         public string DbPath { get; }
 
         public MeuAppDbContext()
